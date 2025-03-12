@@ -1,12 +1,8 @@
-- 👋 Hi, I’m: @KwrzDev
-- 👀 I’m interested in: Aprender
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-KwrzDev/KwrzDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá, eu sou o @KwrzDev! 👋
+👀 Interesses: Aprender e evoluir como programador
+🌱 Atualmente estudando: Python e desenvolvimento de projetos práticos
+💡 Buscando colaborar em: Projetos de código aberto e aplicações inovadoras
+📫 Como me contatar: (adicione seu e-mail ou redes sociais)
+😄 Pronomes: (adicione se desejar)
+⚡ Curiosidade: Sempre em busca de novos desafios para aprimorar minhas habilidades!
+💻🚀 Vamos construir algo incrível juntos!
